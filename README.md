@@ -74,28 +74,4 @@ The application will start on http://localhost:8080.
 #Test reports are generated in the build/reports/tests/test/index.html file. Open this file in a web browser to see detailed test results#
 
 # Project Structure#
-
-src
-├── main
-│   ├── java
-│   │   └── com
-│   │       └── example
-│   │           └── todo
-│   │               ├── TodoApplication.java
-│   │               ├── controller
-│   │               │   └── TaskController.java
-│   │               ├── model
-│   │               │   └── Task.java
-│   │               ├── repository
-│   │               │   └── TaskRepository.java
-│   │               └── service
-│   │                   └── TaskService.java
-└── test
-    └── java
-        └── com
-            └── example
-                └── todo
-                    └── service
-                        └── TaskServiceTest.java
-
-
+<img width="428" alt="Screenshot 2024-05-22 at 2 22 46 AM" src="https://github.com/Kxrma47/DZ4/assets/114881854/2ca28cb0-bebf-49a0-aebc-301140908fe9">
