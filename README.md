@@ -9,7 +9,6 @@ This is a TODO list application built with Spring Boot. It supports adding, remo
 
 - You have installed Java 11 or later.
 - You have installed Gradle.
-- You have a GitHub account (optional for uploading to GitHub).
 
  #Clone the Repository#
 
